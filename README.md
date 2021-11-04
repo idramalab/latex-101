@@ -7,7 +7,7 @@
 2. Unless you have a valid reason, figures and tables should be at the top of the page [t]
 3. Use thousand comma separator: 10000 -> 10,000 in both text and plots. 
 4. Consider using k or M as much as possible. E.g., 10k, 10M, etc.
-5. For quoted text use ``text'’ and not “text” and `blah’ not ‘blah’
+5. For quoted text use ``text'' and `text'
 6. Subordinate clauses starting with "which": there usually needs to be a comma before → “blah blah, which”
 7. Always add a tilde before \cite{} → Blah et al.~\cite{X} show (except in cases where the sentence starts with \cite{} or \citet{})
 8. However, never start a sentence with \cite{}, unless it’s in the aaai bib format, which makes it (Blah et al., 2019)
