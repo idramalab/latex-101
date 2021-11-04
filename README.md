@@ -1,7 +1,7 @@
 # LaTeX, Git, Etc.
 ## Guide for new iDRAMA students and collaborators
 
-###Formatting (High-Priority)
+### Formatting (High-Priority)
 
 1. Tables: right-align columns with numbers
 2. Unless you have a valid reason, figures and tables should be at the top of the page [t]
