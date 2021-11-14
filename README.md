@@ -1,7 +1,7 @@
 # LaTeX, Git, Etc.
 ## Guide for new iDRAMA students and collaborators
 
-### Formatting (High-Priority)
+### Formatting
 
 1. In Tables, always right-align columns with numbers
 ```
