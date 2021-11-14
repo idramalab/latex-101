@@ -125,7 +125,7 @@ Blah et al.~\cite{X}
 - Avoid verbose expressions like:
 ``` 
 As it can be seen, Notice that, It is worth noting, etc. --> 
-  99% of the times you can just remove them altogether
+  99% of the time you can just remove them altogether
 ```
 
 - Use Oxford comma: 
