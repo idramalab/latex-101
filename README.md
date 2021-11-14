@@ -148,7 +148,9 @@ The epsilon parameter is set to 0.1 -> We set epsilon to 0.1
 ```
 
 - Don't have single sub/subsections:
-```No Section 4.1 or 4.1.1 if you don't have 4.2/4.1.2```
+```
+No Section 4.1 or 4.1.1 if you don't have 4.2/4.1.2
+```
 
 - If you are unsure about a statement, try to ask yourself "as opposed to what?": 
 ```
