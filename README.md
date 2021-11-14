@@ -120,6 +120,26 @@ Blah et al.~\cite{X}
 \cite{X} --> (Blah et al., 2019)
 ```
 
+## Writing 
 
+- Avoid verbose expressions like:
+``` 
+As it can be seen, Notice that, It is worth noting, etc. -> 99% of the times you can just remove them altogether
+```
 
-## Text 
+- Use Oxford comma: 
+```
+x, y, and z
+```
+
+- Always use an editor that has integrated spellcheck. Do not push text you haven't proofread unless extremely urgent.
+
+- Do not mix present and past tense.
+```
+We started with this, then we select that
+```
+
+- Try to avoid passive forms as much as possible:
+```
+The epsilon parameter is set to 0.1 -> We set epsilon to 0.1
+
