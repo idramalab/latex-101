@@ -136,7 +136,7 @@ x, y and z --> x, y, and z
 Do not push text you haven't proofread unless extremely urgent.
 ```
 
-- Do not mix present and past tense.
+- Do not mix present and past tense:
 ```
 We started with this, then we select that
 ```
@@ -144,4 +144,51 @@ We started with this, then we select that
 - Try to avoid passive forms as much as possible:
 ```
 The epsilon parameter is set to 0.1 -> We set epsilon to 0.1
+```
 
+- Don't have single sub/subsections:
+```No Section 4.1 or 4.1.1 if you don't have 4.2/4.1.2```
+
+- If you are unsure about a statement, try to ask yourself "as opposed to what?": 
+```it is interesting to observe that blah blah --> as opposed to not being interesting? If it wasn't interesting then you'd just not write it perhaps?
+```
+
+- Set your locale to US English; never use British English spelling
+```Sorry Brits :-)```
+
+
+## Bibliography
+- Remove useless fields from the bib file:
+```
+e.g., publisher, city, abstract, etc.
+```
+
+- Shorten conference names:
+```
+ACM Internet Measurement Conference -> ACM IMC or even just IMC (just be consistent)
+```
+
+- If a paper on arXiv was published at some conference:
+```cite the conference version, not the arxiv version```
+
+- Correct way of citing arXiv preprints:
+```Arxiv preprint arxiv:12309482 -> arXiv:12309482 or arXiv preprint 12309482```
+
+- No duplicate bib entries with the same key
+
+
+## Plots
+- Never generate plots in excel
+- Never have pie charts
+- Use sufficiently large fonts in your plots
+- Make sure to export plots at high resolution (in a vector format), usually, pdf works best
+- Use the `tight` option when exporting plots from matplotlib etc. to make sure there is no white space around the plot
+
+
+## Git
+- Commit latex changes incrementally (don’t wait to be “done”)
+- Don’t use TeXStudio/TeXMaker. If you do, make sure to set the option that monitors external changes on disk; see [this](https://tex.stackexchange.com/questions/226355/texmaker-overwrites-file-that-was-externally-modified). (It will avoid overwriting others’ changes by mistake)
+- Agree on line ending style (one sentence per line, one paragraph per line) up front. Don’t ever reformat the updated TeX to break after 80 chars (will cause *all* possible conflicts)
+- Make sure whatever you commit actually builds
+- Do not add your code/large data files in the same repo as the latex repo. Latex repo should have only latex, plots, and notes.
+- Make sure to not push intermediate latex files in the repo (like .log .aux etc). You can do this by adding an appropriate .gitignore file
