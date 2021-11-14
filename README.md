@@ -1,4 +1,4 @@
-# LaTeX/Git Guide for new iDRAMA students and collaborators
+# LaTeX Guide for new iDRAMA students/collaborators
 
 ## Formatting (Tables/Figures)
 
@@ -131,7 +131,6 @@ As it can be seen, Notice that, It is worth noting, etc. -> 99% of the times you
 ```
 x, y, and z
 ```
-
 - Always use an editor that has integrated spellcheck. Do not push text you haven't proofread unless extremely urgent.
 
 - Do not mix present and past tense.
