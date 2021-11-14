@@ -189,6 +189,8 @@ Arxiv preprint arXiv:12309482 -> arXiv:12309482 or arXiv preprint 12309482
 
 - No duplicate bib entries with the same key
 
+- It's great to use tools like Zotero, Mendeley, etc., or Google Scholar, DBLP, etc. to generate/export bib entries. However, you will still probably need to edit the overwhelming majority of the bib entries. Sorry :-)
+
 
 ## Plots
 - Never generate plots in excel
