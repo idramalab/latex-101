@@ -139,7 +139,7 @@ Do not push text you haven't proofread unless extremely urgent.
 
 - Do not mix present and past tense:
 ```
-We started with this, then we select that
+We started with this, then we select that (wrong!)
 ```
 
 - Try to avoid passive forms as much as possible:
