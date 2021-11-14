@@ -110,7 +110,7 @@ blah blah, which
 
 ## Formatting (Citations)
 
--  Add a tilde before citation, unless the sentence starts with a citation:
+-  Add a tilde before citations, unless the sentence starts with a citation:
 ```
 Blah et al.~\cite{X}
 ```
