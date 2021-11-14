@@ -159,14 +159,14 @@ it is interesting to observe that blah blah --> as opposed to not being interest
 
 - Set your locale to US English; never use British English spelling
 ```
-Sorry Brits :-)
+Sorry British/Australian friends :-)
 ```
 
 
 ## Bibliography
 - Remove useless fields from the bib file:
 ```
-e.g., publisher, city, abstract, etc.
+E.g., publisher, city, abstract, etc.
 ```
 
 - Shorten conference names:
