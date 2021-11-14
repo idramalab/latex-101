@@ -154,8 +154,8 @@ No Section 4.1 or 4.1.1 if you don't have 4.2/4.1.2
 
 - If you are unsure about a statement, try to ask yourself "as opposed to what?": 
 ```
-it is interesting to observe that blah blah --> 
-  as opposed to not being interesting? 
+It is interesting to observe that blah blah --> 
+  As opposed to not being interesting? 
   If it wasn't interesting then you'd just not write it perhaps?
 ```
 
