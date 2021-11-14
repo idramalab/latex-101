@@ -173,7 +173,8 @@ E.g., publisher, city, abstract, etc.
 
 - Shorten conference names:
 ```
-ACM Internet Measurement Conference -> ACM IMC or even just IMC (just be consistent)
+Proceedings of the 17th ACM Internet Measurement Conference -> ACM IMC or even just IMC (just be consistent)
+
 ```
 
 - If a paper on arXiv was published at some conference:
