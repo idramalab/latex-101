@@ -177,14 +177,14 @@ Proceedings of the 17th ACM Internet Measurement Conference -> ACM IMC
 (or even just IMC; just be consistent)
 ```
 
-- If a paper on arXiv was published at some conference:
+- If a paper on arXiv was also/later published in some conference/journal:
 ```
-cite the conference version, not the arxiv version
+Cite the conference/journal version, not the arXiv version
 ```
 
 - Correct way of citing arXiv preprints:
 ```
-Arxiv preprint arxiv:12309482 -> arXiv:12309482 or arXiv preprint 12309482
+Arxiv preprint arXiv:12309482 -> arXiv:12309482 or arXiv preprint 12309482
 ```
 
 - No duplicate bib entries with the same key
