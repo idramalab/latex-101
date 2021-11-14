@@ -132,11 +132,6 @@ As it can be seen, Notice that, It is worth noting, etc. -->
 ```
 x, y and z --> x, y, and z
 ```
-- Always use an editor that has integrated spellcheck.
-```
-Do not push text you haven't proofread unless extremely urgent.
-```
-
 - Do not mix present and past tense:
 ```
 We started with this, then we select that (wrong!)
@@ -163,6 +158,9 @@ It is interesting to observe that blah blah -->
 ```
 Sorry British/Australian friends :-)
 ```
+- Always use an editor that has an integrated spellchecker
+
+- Do not push text you haven't proof-read, unless extremely urgent
 
 
 ## Bibliography
