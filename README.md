@@ -11,6 +11,8 @@ Female & 132\\
 \end{tabular}
 ```
 
+- A good resource to create tables in tex: [https://www.tablesgenerator.com](https://www.tablesgenerator.com)
+
 - Figures and tables should be at the top of the page &ndash; use [t]:
 ```
 \begin{table}[t]
@@ -79,6 +81,8 @@ We find 147.3715 things --> We find 147.37 (unlikely you need more than 2 digit 
 Blah blah -- blah blah
 Blah blah---blah blah
 ```
+
+- Consistency: do not mix present and past tense, do not mix Web with web, etc. Same for abbreviations like Sec. and Section, etc. (unless pressed for space, prefererence on no abbreviations, except perhaps for Fig.)
 
 - The footnote mark goes after the period if at the end of a sentence
 ```
