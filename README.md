@@ -82,7 +82,11 @@ Blah blah -- blah blah
 Blah blah---blah blah
 ```
 
-- Consistency: do not mix present and past tense, do not mix Web with web, etc. Same for abbreviations like Sec. and Section, etc. (unless pressed for space, prefererence on no abbreviations, except perhaps for Fig.)
+- Unless pressed for space, avoid abbreviations:
+```
+Sec./Tab./App./Fig. --> Section/Table/Appendix/Figure
+```
+Fig. might be an exception. Consider using the cleverref package and just use \cref
 
 - The footnote mark goes after the period if at the end of a sentence
 ```
