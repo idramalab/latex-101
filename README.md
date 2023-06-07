@@ -209,7 +209,7 @@ Arxiv preprint arXiv:12309482 -> arXiv:12309482 or arXiv preprint 12309482
 ## Git
 - Commit latex changes incrementally (don’t wait to be “done”)
 - Don’t use TeXStudio/TeXMaker. If you do, make sure to set the option that monitors external changes on disk; see [this](https://tex.stackexchange.com/questions/226355/texmaker-overwrites-file-that-was-externally-modified). (It will avoid overwriting others’ changes by mistake)
-- Agree on line ending style (one sentence per line, one paragraph per line) up front. Don’t reformat the updated TeX to break after 80 chars (will cause *all* possible conflicts)
+- Agree on line ending style (e.g., one sentence or one paragraph per line, with the former preferred) up front. Don’t reformat the updated TeX to break after 80 chars (will cause *all* possible conflicts)
 - Make sure everyone can compile what you commit (e.g., if you're using Overleaf, it might still compile so make sure there are *no LaTeX errors*)
 - Do not add your code/large data files in the same repo as the latex repo. Latex repo should have only latex, plots, and notes
 - Make sure to not push intermediate latex files in the repo (like .log .aux etc). You can do this by adding an appropriate .gitignore file
